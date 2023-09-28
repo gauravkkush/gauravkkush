@@ -2,7 +2,7 @@
 👋 Hi, I’m @gauravkkush<br>
 I'm a passionate front-end developer with a knack for creating captivating web experiences. Here, you'll find a showcase of my projects and contributions that reflect my creativity and technical expertise.
 
-[LinkedIn](https://linkedin.com/in/gauravkkush) | [Email](mailto:kkushgaurav@gmail.com) | [Leetcode](https://leetcode.com/gauravkkush) |[Geeksforgeeks](https://auth.geeksforgeeks.org/user/gauravkkush/)
+[LinkedIn](https://linkedin.com/in/gauravkkush) | [Email](mailto:kkushgaurav@gmail.com) | [Leetcode](https://leetcode.com/gauravkkush) | [Geeksforgeeks](https://auth.geeksforgeeks.org/user/gauravkkush/)
 
 ### Skills & Tools 🛠️
 
