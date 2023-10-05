@@ -22,3 +22,5 @@ I'm a passionate front-end developer with a knack for creating captivating web e
 
 Feel free to explore my repositories and reach out to me on LinkedIn. Let's collaborate and create something extraordinary together! ✨🤝
 
+[![An image of @gauravkkush9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravkkush9)](https://holopin.io/@gauravkkush9)
+
